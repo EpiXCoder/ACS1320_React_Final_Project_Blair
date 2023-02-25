@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ACS1320_React_Final_Project_Blair/static/css/main.f525ac67.css",
-    "main.js": "/ACS1320_React_Final_Project_Blair/static/js/main.2435be53.js",
+    "main.css": "/ACS1320_React_Final_Project_Blair/static/css/main.1ab26fa3.css",
+    "main.js": "/ACS1320_React_Final_Project_Blair/static/js/main.227c7dd5.js",
     "static/js/787.5480e000.chunk.js": "/ACS1320_React_Final_Project_Blair/static/js/787.5480e000.chunk.js",
     "static/media/HenriDidot.otf": "/ACS1320_React_Final_Project_Blair/static/media/HenriDidot.75200aa18d6b8e5f28f8.otf",
     "static/media/Glory.otf": "/ACS1320_React_Final_Project_Blair/static/media/Glory.420ccd65407bbb148c98.otf",
     "index.html": "/ACS1320_React_Final_Project_Blair/index.html",
-    "main.f525ac67.css.map": "/ACS1320_React_Final_Project_Blair/static/css/main.f525ac67.css.map",
-    "main.2435be53.js.map": "/ACS1320_React_Final_Project_Blair/static/js/main.2435be53.js.map",
+    "main.1ab26fa3.css.map": "/ACS1320_React_Final_Project_Blair/static/css/main.1ab26fa3.css.map",
+    "main.227c7dd5.js.map": "/ACS1320_React_Final_Project_Blair/static/js/main.227c7dd5.js.map",
     "787.5480e000.chunk.js.map": "/ACS1320_React_Final_Project_Blair/static/js/787.5480e000.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f525ac67.css",
-    "static/js/main.2435be53.js"
+    "static/css/main.1ab26fa3.css",
+    "static/js/main.227c7dd5.js"
   ]
 }
