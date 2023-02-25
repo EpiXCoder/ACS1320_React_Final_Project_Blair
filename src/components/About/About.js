@@ -5,7 +5,7 @@ import './About.css'
 function About() {
   return (
     <div className='about-page'>
-      <h1>About Laura Blair</h1>
+      <h1 className = "about-title" >About Laura Blair</h1>
       <img 
             src="https://londonfashiongirl.com/wp-content/uploads/2020/04/PIC-800x766.png"
             width="200" 

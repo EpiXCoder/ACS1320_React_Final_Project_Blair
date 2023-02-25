@@ -8,6 +8,9 @@ import About from './components/About/About';
 import BLAIRList from './components/BLAIRList/BLAIRList';
 import reportWebVitals from './reportWebVitals';
 import BLAIRDetails from './components/BLAIRDetails/BLAIRDetails';
+import ContactForm from './components/BLAIRContact/BLAIRContact';
+
+
 
 const rootElement = document.getElementById('root');
 const root = createRoot(rootElement);
@@ -19,6 +22,7 @@ root.render(
       <Route path="/" element={<App />}>
         <Route path="/" element={<BLAIRList />} />
         <Route path="about" element={<About />} />
+        <Route path="contact" element={<ContactForm />} />
         <Route path="/details/:id" element={<BLAIRDetails />} />
       </Route>
     </Routes>
