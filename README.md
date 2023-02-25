@@ -4,7 +4,7 @@ This project was created as proof of concept and bootstrapped with [Create React
 
 
 ## Deployed Page
-https://epixcoder.github.io/ACS1320_React_App/
+https://epixcoder.github.io/ACS1320_React_Final_Project_Blair/
 
 ## Tech Stack
 React
