@@ -19,7 +19,7 @@ function About() {
         that with you. This page is all 
         about sharing my passion for fashion with you so you can walk the runway right along with me! 
         Welcome to the fam! x</p>
-      <p>
+      <p className='contact'>
         For all enquiries please contact <a href="mailto:info@londonfashiongirl.com">info@londonfashiongirl.com</a> or <a href="https://www.instagram.com/thelaurablair/">@TheLauraBlair</a>
       </p>
     </div>

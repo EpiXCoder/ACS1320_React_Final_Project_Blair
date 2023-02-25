@@ -5,6 +5,7 @@ import './BLAIRDetails.css'
 import BLAIRItemList from '../BLAIRItems/BLAIRItemList'
 
 
+
 function BLAIRDetails(props) {
   const params = useParams()
   const { id } = params // Location index
@@ -15,7 +16,7 @@ function BLAIRDetails(props) {
       <div className="BLAIRDetails">
         <div className="BLAIRDetails-image">
           <img src={primary} alt='look'/>
-        </div>
+         </div>
         <div className="BLAIRDetails-info">
           <h2>Shop this look</h2>
           <BLAIRItemList items={items}/>

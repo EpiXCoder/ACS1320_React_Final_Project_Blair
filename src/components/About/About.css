@@ -1,7 +1,19 @@
+@font-face {
+    font-family: Glory;
+    src: url("Glory.otf");
+  }
+
 .about-page {
     vertical-align: middle
 }
 .abouts {
     width: 50%;
     margin: auto;
+    font-family: Glory;
+    font-size: larger;
+}
+
+.contact {
+    font-family: Glory;
+    font-size: larger;
 }
