@@ -1,0 +1,33 @@
+.BLAIRDetails {
+	display: flex;
+	/* flex-direction: row-reverse; */
+	width: 960px;
+	margin: auto;
+}
+
+.BLAIRDetails .BLAIRDetails-info {
+	flex: 1;
+	text-align: left;
+	padding: 0 1em;
+}
+
+.BLAIRDetails .BLAIRDetails-title {
+	font-size: 2em;
+	margin: 0;
+}
+
+.BLAIRDetails .BLAIRDetails-image {
+	flex: 2;
+}
+
+.BLAIRDetails .BLAIRDetails-image img {
+	width: 100%;
+}
+
+.BLAIRDetails .BLAIRDetails-hours {
+	font-size: 1.5em;
+}
+
+.randomlook-insert{
+	margin-bottom: 15px;
+}
