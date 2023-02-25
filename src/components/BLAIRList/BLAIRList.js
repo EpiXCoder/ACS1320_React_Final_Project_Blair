@@ -26,6 +26,7 @@ function BLAIRList() {
       <div className="Footer">
           <hr className="Line"/>
         <small>Laura Blair copyright 2023</small>
+        <p></p>
       </div>
     </div>
   )
